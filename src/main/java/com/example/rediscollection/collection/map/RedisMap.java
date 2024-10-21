@@ -1,4 +1,4 @@
-package com.example.rediscollection.collection;
+package com.example.rediscollection.collection.map;
 
 import java.util.Map;
 

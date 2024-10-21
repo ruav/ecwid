@@ -1,8 +1,8 @@
 package com.example.rediscollection;
 
-import com.example.rediscollection.collection.RedisMap;
-import com.example.rediscollection.collection.RedisMapCluster;
-import com.example.rediscollection.collection.RedisMapSimple;
+import com.example.rediscollection.collection.map.RedisMap;
+import com.example.rediscollection.collection.map.RedisMapCluster;
+import com.example.rediscollection.collection.map.RedisMapSimple;
 import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.Jedis;
 

@@ -1,4 +1,4 @@
-package com.example.rediscollection.collection;
+package com.example.rediscollection.collection.map;
 
 import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.JedisCluster;
